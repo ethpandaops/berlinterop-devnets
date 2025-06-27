@@ -14,7 +14,7 @@ This repository contains the infrastructure code used to setup ~all~ dev/testnet
 
 Status   | Network    | Links   | Ansible                                                      | Terraform | Kubernetes
 ------   | --------   | ----     |  -----                                                       | -------   | ------
-Offline | Fusaka-devnet-2 | [devnet-2](https://template.devnet.io/)   | [Network config](network-configs/devnet-2) / [Inventory](https://bootnode-1.devnet-2.ethpandaops.io/meta/api/v1/inventory.json) / [Validator ranges](https://bootnode-1.devnet-2.ethpandaops.io/meta/api/v1/validator-ranges.json)    | [🔗](ansible/inventories/devnet-2) | [🔗](terraform/devnet-2) | [🔗](kubernetes/devnet-2)
+Offline | berlinterop-devnet-2 | [devnet-2](https://template.devnet.io/)   | [Network config](network-configs/devnet-2) / [Inventory](https://bootnode-1.devnet-2.ethpandaops.io/meta/api/v1/inventory.json) / [Validator ranges](https://bootnode-1.devnet-2.ethpandaops.io/meta/api/v1/validator-ranges.json)    | [🔗](ansible/inventories/devnet-2) | [🔗](terraform/devnet-2) | [🔗](kubernetes/devnet-2)
 
 # Development
 ## Version management for tools
